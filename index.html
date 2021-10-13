@@ -3,20 +3,29 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Styles.css">
-    <title>Palindrome Birthday</title>
+    <link rel="stylesheet" href="styles.css">
+    <title>Profit-loss Calculator</title>
 </head>
 
 <body>
+
     <div class="container">
-        <h2>Is your birthday a Palindrome ?🤔</h2>
-        <input id="birthday" type="date">
-        <button id="show-button">show now!</button>
+        <h2> Profit📈 and Loss📉 checker </h2>
+        <label for="initial-price"> Initial Price
+        </label>
+        <input id="initial-price" type="number">
+        <label for="stock-quantity">Quantity of Stocks</label>
+        <input id="stock-quantity" type="number">
+        <label for="current-price">Current Price</label>
+        <input id="current-price" type="number">
+
+        <button id="check-button">Tell Me!</button>
         <p id="message"></p>
     </div>
     <div class="footer">
-        <p id="copyright"> Kunal Biswas</p>
+        <p id="copyright">&copy | 2021 | Kunal Biswas</p>
 
         <div class="social-media">
 
@@ -28,5 +37,4 @@
     </div>
 </body>
 <script src="index.js"></script>
-
 </html>

@@ -9,10 +9,11 @@ body{
         flex-direction: column;
       
 }
-.container{
+.container {
+   
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     flex-direction: column;
     background-color: #5533ee;
     box-shadow: -4px -4px 5px #5e2de4, 4px 4px 15px #000000;
@@ -26,6 +27,10 @@ body{
     margin-top: 20px;
     margin-bottom: 100px;
 }
+label ,input, button{
+    margin: 7px;
+}
+
 h2,p {
     color: white;
 }
@@ -33,6 +38,7 @@ h2,p {
 #copyright {
     color: black;
 }
+
 
 .footer{
     text-align: center;
