@@ -8,11 +8,12 @@ It has three input fields in one user has to enter stocks price , in second quan
 then user has to click calculate then output will be shown to th user
 
 <h4> Steps to use: </h4>
-1) Enter stocks price you bought
-2) Enter the quantity of stocks you bought
-3) Enter the current price of your stocks
-4) Click on the Calculate button
-5) Output will be shown below the button after its calculated.
+<ol>
+  <li> Enter stocks price you bought </li>
+ <li> Enter the quantity of stocks you bought </li>
+<li> Enter the current price of your stocks </li>
+<li> Click on the Calculate button </li>
+<li> Output will be shown below the button after its calculated. </li>
 
 <h4> Programming Language: </h4>
 html
