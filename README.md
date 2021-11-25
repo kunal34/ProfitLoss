@@ -22,4 +22,5 @@ then user has to click calculate then output will be shown to th user
 <li>javascript</li>
 </ol>
   
-      <a href="https://profitlossmark14.netlify.app/" target="_blank" class="link link-primary">Live Project</a>
+  [Live Project] (https://profitlossmark14.netlify.app/)
+      
