@@ -16,11 +16,11 @@ then user has to click calculate then output will be shown to th user
 <li> Output will be shown below the button after its calculated. </li>
 
 <h4> Programming Language: </h4>
-<ol>
-<li>html</li>
-<li>css</li>
-<li>javascript</li>
-</ol>
-  
-  [Live Project] (https://profitlossmark14.netlify.app/)
+<ul>
+<li>Html</li>
+<li>CSS</li>
+<li>JAVASCRIPT</li>
+</ul>
+  <br>
+  [Live Project](https://profitlossmark14.netlify.app/)
       
