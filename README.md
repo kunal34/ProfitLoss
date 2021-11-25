@@ -23,5 +23,5 @@ then user has to click calculate then output will be shown to th user
 </ul>
   
   <br>
-  Live Project - (https://profitlossmark14.netlify.app/)
-      
+  
+  [Live Project](https://profitlossmark14.netlify.app/)    
