@@ -21,6 +21,7 @@ then user has to click calculate then output will be shown to th user
 <li>CSS</li>
 <li>JAVASCRIPT</li>
 </ul>
+  
   <br>
-  [Live Project](https://profitlossmark14.netlify.app/)
+  Live Project - (https://profitlossmark14.netlify.app/)
       
